@@ -1,2 +1,2 @@
 # highlightjs-marcel
-Highlight.js grammar for Salesforce Marcel language
+Highlight.js grammar for Marcel language

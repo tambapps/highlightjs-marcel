@@ -1,0 +1,25 @@
+{
+  "name": "highlightjs-marcel",
+  "version": "1.0.0",
+  "description": "Highlight.js grammar for Marcel language",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tambapps/highlightjs-marcel.git"
+  },
+  "keywords": [
+    "Marcel",
+    "highlight.js",
+    "highlightjs",
+    "syntax"
+  ],
+  "author": "Nelson Fonkoua <tambapps@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tambapps/highlightjs-marcel/issues"
+  },
+  "homepage": "https://github.com/tambapps/highlightjs-marcel"
+}
